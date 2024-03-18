@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\bilal\Source\repos\Candy Crush Game\Candy Crush Game\Game.cpp(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bilal\Source\repos\Candy Crush Game\Candy Crush Game\Game.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Candy Crush Game.vcxproj -> C:\Users\bilal\Source\repos\Candy Crush Game\x64\Debug\Candy Crush Game.exe
